@@ -1,11 +1,9 @@
-## My Project
+## AWS AppSync Infrastructure Setup
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This repository provides a sample AWS CloudFormation template to setup AppSync GraphQL schema
+for integration with Amazon Relational Database Service (Amazon RDS). Plugin your own AWS Lambda 
+function, GraphQL schema and DDL to create sample tables and insert sample data for an 
+Amazon Aurora PostgreSQL-Compatible Edition cluster. 
 
 ## Security
 
